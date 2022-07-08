@@ -1,0 +1,32 @@
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: #ffffff;    
+}
+
+.margin{    
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
+.black{
+    background-color:  rgb(3, 3, 3);
+    color: white;
+}
+
+.desc{
+    background-color: #111111;
+    color: white;
+}
+
+.top{
+    background-color: #111111;
+}
+
+.bg-footer{
+    background-color: rgb(44, 44, 44);
+    color: white;
+    font-size: 70%;
+}
